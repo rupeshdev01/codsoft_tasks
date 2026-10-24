@@ -1,1 +1,5 @@
+
 Feature branch content
+
+Conflic branch content
+
